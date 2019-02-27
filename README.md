@@ -2,6 +2,6 @@
 
 This was created to learn the "add" functionality in Git.
 
-# Further Learning
+# Website Contents
 
-This section was added to further learning the Git commands.
+1. index.html
