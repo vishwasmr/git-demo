@@ -7,3 +7,5 @@ This was created to learn the "add" functionality in Git.
 Here are the files in the website:
 
 1. index.html
+
+## More Changes for Learning
